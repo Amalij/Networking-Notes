@@ -54,5 +54,5 @@ Cisco Packet Tracer is a network simulation tool used to design and test network
 - Transfers data using packets
 
 ---
-*## ipconfig
+## ipconfig
 - Used to display IP address and network details of a computer
