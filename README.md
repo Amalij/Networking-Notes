@@ -41,12 +41,16 @@ Cisco Packet Tracer is a network simulation tool used to design and test network
 - Not intelligent
 - Sends data (packets) to all connected devices
 
+  <img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/18b8266e-0d3f-4a82-ab8a-61e77087747d" />
+
+
 ### Switch
 - Intelligent device
 - Learns MAC addresses
 - Sends data only to the correct device
 - Mainly used in LAN
 - Uses frames
+<img width="1360" height="718" alt="image" src="https://github.com/user-attachments/assets/3ae7725f-292b-43fa-8c3d-7602fc94b4cf" />
 
 ### Router
 - Connects different networks
